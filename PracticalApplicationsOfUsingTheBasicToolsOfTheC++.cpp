@@ -1,0 +1,25 @@
+﻿#include <iostream>
+using namespace std;
+
+#include "PracticalApplicationsOfUsingTheBasicToolsOfTheCPPLanguage/PracticalApplicationsOfUsingFunctions&Arrays&ForLoops&Struct.h";
+#include "PracticalApplicationsOfUsingTheBasicToolsOfTheCPPLanguage/PracticalApplicationsOfUsingFunctions&Arrays&ForLoops.h";
+#include "PracticalApplicationsOfUsingTheBasicToolsOfTheCPPLanguage/PracticalApplicationsOfUsingSimpleMathematicalOperations&cin&cout&Variables.h";
+#include "PracticalApplicationsOfUsingTheBasicToolsOfTheCPPLanguage/PracticalApplicationsOfUsingStruct&Enum.h";
+#include "PracticalApplicationsOfUsingTheBasicToolsOfTheCPPLanguage/PracticalApplicationsOfUsingSwitch&Enum&Functions.h";
+#include "PracticalApplicationsOfUsingTheBasicToolsOfTheCPPLanguage/PracticalApplicationOfUsingcin&cout.h";
+#include "PracticalApplicationsOfUsingTheBasicToolsOfTheCPPLanguage/PracticalApplicationOfUsingcin&cout&Variables.h";
+#include "PracticalApplicationsOfUsingTheBasicToolsOfTheCPPLanguage/PracticalApplicationOfUsingIfStatementAndElseIfStatementAndElseStatement.h";
+#include "PracticalApplicationsOfUsingTheBasicToolsOfTheCPPLanguage/PracticalApplicationOfUsingNestedForLoop.h";
+#include "PracticalApplicationsOfUsingTheBasicToolsOfTheCPPLanguage/PracticalApplicationOfUsingRandomNumbers.h";
+#include "PracticalApplicationsOfUsingTheBasicToolsOfTheCPPLanguage/PracticalApplicationOfUsingcin&cout&ArithmeticOperators.h";
+#include "PracticalApplicationsOfUsingTheBasicToolsOfTheCPPLanguage/SolvingSomeSimpleProblemsUsingBasicTools.h";
+#include "PracticalApplicationsOfUsingTheBasicToolsOfTheCPPLanguage/CreatingFunctionsLikeBuiltInFunctions.h";
+
+
+
+int main()
+{
+	
+
+	return 0;
+}
