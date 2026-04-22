@@ -45,8 +45,11 @@ Solved various "beginner-friendly" logic puzzles to practice the syntax, such as
 One of the highlights of this repository is the integration of multiple tools to solve logic-based problems, and These are repositories of some projects that were done using basic tools and functional programming.
 
 * **Rock Paper Scissors Game:** (https://github.com/ebrahim-hasan-dev/PracticalApplicationsOfFunctionalProgramming-repo.git)
+
 * **Math Game:** (https://github.com/ebrahim-hasan-dev/PracticalApplicationsOfFunctionalProgramming-repo.git)
+
 * **Small ATM Project:** (https://github.com/ebrahim-hasan-dev/Small_ATM_Project-repo.git)
+
 * **Mini Bank Project:** (https://github.com/ebrahim-hasan-dev/ConsoleApp_MiniBankProjectFunctionalProgramming-repo.git)
 
 ## 📂 Project Structure
