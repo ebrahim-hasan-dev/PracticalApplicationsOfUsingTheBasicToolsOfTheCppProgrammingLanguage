@@ -41,6 +41,14 @@ To deeply understand how standard libraries work, I have manually implemented lo
 ### 3. Problem Solving
 Solved various "beginner-friendly" logic puzzles to practice the syntax, such as calculating grades, simple banking simulations, and basic geometric calculations.
 
+### 4. Practical Implementations
+One of the highlights of this repository is the integration of multiple tools to solve logic-based problems, and These are repositories of some projects that were done using basic tools and functional programming.
+
+* **Rock Paper Scissors Game:** (https://github.com/ebrahim-hasan-dev/PracticalApplicationsOfFunctionalProgramming-repo.git)
+* **Math Game:** (https://github.com/ebrahim-hasan-dev/PracticalApplicationsOfFunctionalProgramming-repo.git)
+* **Small ATM Project:** (https://github.com/ebrahim-hasan-dev/Small_ATM_Project-repo.git)
+* **Mini Bank Project:** (https://github.com/ebrahim-hasan-dev/ConsoleApp_MiniBankProjectFunctionalProgramming-repo.git)
+
 ## 📂 Project Structure
 This folder, "PracticalApplicationsOfUsingTheBasicToolsOfTheCPPLanguage" contains all the files, and each file is named to represent the code it contains.
 
